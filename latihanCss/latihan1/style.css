@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(231, 139, 139);
+  font-family: Helvetica;
+}
+h1,
+h2,
+h3 {
+  font-family: Georgia;
+  color: whitesmoke;
+}
+.blueBoldText {
+  font-size: medium;
+  color: blue;
+}
+.largeGreenText {
+  font-size: large;
+  color: green;
+}
+.underline {
+  font-size: small;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.greenText {
+  font-size: 28px;
+  color: green;
+}
